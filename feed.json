@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://HTEredrock.github.io/publiiTestSite",
+    "feed_url": "https://HTEredrock.github.io/publiiTestSite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Peter"
+    },
+    "items": [
+        {
+            "id": "https://HTEredrock.github.io/publiiTestSite/test-post/",
+            "url": "https://HTEredrock.github.io/publiiTestSite/test-post/",
+            "title": "Test post",
+            "summary": " Some text ",
+            "content_html": "\n  <p>\n    Some text\n  </p>",
+            "author": {
+                "name": "Peter"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-11T12:37:26+02:00",
+            "date_modified": "2020-08-11T12:37:26+02:00"
+        }
+    ]
+}
